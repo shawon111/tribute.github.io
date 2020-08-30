@@ -1,0 +1,129 @@
+*{margin:0;padding:0;}
+#main{background-color: #faefef99;width:1300px;margin-left:100px;margin-top: 25px;padding-top: 10px;margin-bottom: 25px;padding-bottom: 25px;padding-left: 20px;}
+#headerAll{
+	width:100%;
+	text-align:center;
+	font-family:arial;
+	font-size: 30px;
+}
+div#title {
+    font-family: cursive;
+    color: #5f1414c9;
+    padding-bottom: 20px;
+}
+#headerAll h6 {
+    font-family: revert;
+    color: #6e6969;
+    margin-bottom: 15px;
+}
+figure#img-container {
+    width: 1280px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+div#tribute-info {
+    width: 750px;
+    margin: auto;
+    line-height: 30px;
+    padding-top: 45px;
+}
+
+div#info-container #firstItem h3 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #7a4d4d;
+    font-size: 22px;
+}
+
+div#retireMent {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+div#retireMent h3{text-align:center;
+color: #7a4d4d;
+    font-size: 22px;
+}
+div#politicalCareer {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+div#politicalCareer h3{text-align:center;
+color: #7a4d4d;
+    font-size: 22px;
+}
+div#awardS{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+div#awardS h3{text-align:center;
+color: #7a4d4d;
+    font-size: 22px;
+}
+
+div#img-div {
+    width: 600px;
+    margin: auto;
+}
+
+
+img#image {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #F4511E;
+    border-radius: 35%;
+    border-shadow: 67px 60px;
+    box-shadow: #cfcfcf 7px 6px 5px 1px;
+}
+
+body {
+	font-family: sans-serif;
+font-size: 18px;
+color: #6e6565;
+}
+
+figcaption#img-caption {
+    font-family: monospace;
+    color: #7374a3;
+}
+footer#footerContainer {
+    width: 900px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: cursive;
+    color: brown;
+}
+a#tribute-link:visited {color: red;}
+a#tribute-link:hover{color:green;}
+nav#navBar{
+width: 1280px;	
+background-color: lavender;
+color: #3b53ff;	
+height: :42px;	
+overflow: hidden;	
+height: 50px;
+}
+#navBar li {
+    display: inline-block;
+    padding-left: 68px;
+    padding-right: 64px;
+    padding-bottom: -14px;
+    height: 100%;
+    background-color: #e3dddd;
+	font-weight:bold;
+	font-style:oblique;
+}
+
+#navBar ul {
+    position: relative;
+    width: 1278px;
+    margin: auto;
+    height: 100%;
+}
+#navBar li a{text-decoration:none;color:#802927;padding: 12px 0px;display: block;}
+#navBar li a:visited{color:#802927;}
+#navBar li:hover{background-color:tomato;}
+#navBar li a:hover{color:white;}
